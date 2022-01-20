@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: upptime.airtasks.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/airtasks/upptime/ad4c0c226a7d71bc37a54fd3764f26d14152131f/assets/airtasks-500x500.svg
   name: Airtasks
 
 # Upptime also supports notifications, assigning issues, and more
