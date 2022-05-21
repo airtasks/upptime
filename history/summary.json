@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.airtasks.com",
     "slug": "airtasks",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 280,
-    "timeDay": 135,
-    "timeWeek": 252,
-    "timeMonth": 259,
-    "timeYear": 280,
+    "uptimeYear": "99.99%",
+    "time": 279,
+    "timeDay": 128,
+    "timeWeek": 213,
+    "timeMonth": 258,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2022-04-17": 26
     }
